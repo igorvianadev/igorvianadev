@@ -1,7 +1,7 @@
 - 👋 Olá, sou Igor Viana.
-- 👀 Analista de Sistemas em Formação.
-- 🌱 Foco em Front End.
-- 💞️ Em transição de Carreira
+- 🎓 Analista de Sistemas em Formação.
+- 👽 Foco em Front End.
+- 💼 Em transição de Carreira
 - 📫 Contato: igorjviana@gmail.com
 
 <!---
