@@ -1,6 +1,6 @@
 - 👋 Olá, sou Igor Viana.
 - 🎓 Analista de Sistemas em Formação.
-- 👽 Foco em Desenvolvimento Mobile 
+- 👽 Foco em Desenvolvimento Mobile - Flutter 
 - 💼 Em transição de Carreira
 - 📫 Contato: igorjviana@gmail.com
 
