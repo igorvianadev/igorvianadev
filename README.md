@@ -1,6 +1,6 @@
 - 👋 Olá, sou Igor Viana.
 - 🎓 Analista de Sistemas em Formação.
-- 👽 Foco em Desenvolvimento Front End
+- 👽 Foco em Java.
 - 💼 Atuando como Desenvolvedor Web
 - 📫 Contato: igorjviana@gmail.com
 
